@@ -1,4 +1,4 @@
-![Screenshot (36)](https://github.com/user-attachments/assets/36322d6e-e5e5-4c2f-a069-bf22eddb3b05)![Screenshot (36)](https://github.com/user-attachments/assets/071619b8-2d65-4756-9a58-d8b5eccf49fd)# EXNO2DS
+
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
@@ -39,6 +39,7 @@ STEP 8: Use heatmap method of representation to show relationships between two v
         ![Screenshot (33)](https://github.com/user-attachments/assets/8f9bef6e-01c8-49e7-a7a4-16b115aefbaa)
         ![Screenshot (34)](https://github.com/user-attachments/assets/a3b6d6b0-062a-4b05-8045-17197a5f565d)
         ![Screenshot (35)](https://github.com/user-attachments/assets/5cb51483-b3a6-473e-ac36-bd699e43cfec)
+        ![Screenshot (36)](https://github.com/user-attachments/assets/36322d6e-e5e5-4c2f-a069-bf22eddb3b05)
         
                         
 
