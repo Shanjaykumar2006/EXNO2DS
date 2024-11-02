@@ -1,4 +1,3 @@
-![Uploading Screenshot (36).png…]()
 
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -24,25 +23,26 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        ![Screenshot (20)](https://github.com/user-attachments/assets/12c52cf6-eacc-4a20-86ea-60176b33610c)
-        ![Screenshot (21)](https://github.com/user-attachments/assets/6199dab0-eca3-4ab9-9716-72af6f03f5fc)
-        ![Screenshot (22)](https://github.com/user-attachments/assets/a87c1620-fad1-4bee-aa4a-15eb645e3084)
-        ![Screenshot (23)](https://github.com/user-attachments/assets/f1f56fed-a87c-4d50-a395-ca4d1ad3c674)
-        ![Screenshot (24)](https://github.com/user-attachments/assets/c79eceaf-652c-4acb-940a-9f69bb637c5c)
-        ![Screenshot (25)](https://github.com/user-attachments/assets/07e9467d-eb20-4988-8fce-0591751f21f3)
-        ![Screenshot (26)](https://github.com/user-attachments/assets/78b41f04-d034-4ab2-b6d2-5ef7aedf44ec)
-        ![Screenshot (27)](https://github.com/user-attachments/assets/d90edbd3-6490-4c9f-9b15-cf2c18be8a1c)
-        ![Screenshot (28)](https://github.com/user-attachments/assets/c7b1d1d0-f32b-4896-ac53-e588fee2cf2c)
-        ![Screenshot (29)](https://github.com/user-attachments/assets/c8f4db4b-0816-4cc7-9842-ae0fcb48dc35)
-        ![Screenshot (30)](https://github.com/user-attachments/assets/bcb08f1f-6552-478b-80ee-7cd26c25621a)
-        ![Screenshot (31)](https://github.com/user-attachments/assets/29fd2e45-15f0-4287-a509-b5e556059643)
-        ![Screenshot (32)](https://github.com/user-attachments/assets/43ada806-e0c1-476a-bd29-473345b25df3)
-        ![Screenshot (33)](https://github.com/user-attachments/assets/8f9bef6e-01c8-49e7-a7a4-16b115aefbaa)
-        ![Screenshot (34)](https://github.com/user-attachments/assets/a3b6d6b0-062a-4b05-8045-17197a5f565d)
-        ![Screenshot (35)](https://github.com/user-attachments/assets/5cb51483-b3a6-473e-ac36-bd699e43cfec)
-        ![Screenshot (36)](https://github.com/user-attachments/assets/36322d6e-e5e5-4c2f-a069-bf22eddb3b05)
-        
-                        
+          
+
+![Screenshot (41)](https://github.com/user-attachments/assets/9f0a1821-faa4-4a96-bc39-dc846f32cda0)
+![Screenshot (42)](https://github.com/user-attachments/assets/9ae161e0-af74-4783-af0c-8ad244ebd280)
+![Screenshot (43)](https://github.com/user-attachments/assets/9a9fee91-7d74-411e-8c96-a5000a597b11)
+![Screenshot (44)](https://github.com/user-attachments/assets/7ec8c61f-2a0c-41ca-b42d-33ecfcd3327c)
+![Screenshot (45)](https://github.com/user-attachments/assets/8fda3f1c-2ae8-4743-9516-61ebb5f60e3c)
+![Screenshot (46)](https://github.com/user-attachments/assets/d8206be3-d35e-4e1a-b0dd-811039ffcbdd)
+![Screenshot (47)](https://github.com/user-attachments/assets/3d02e3b8-e1b2-4425-809f-e417d5a3ba77)
+![Screenshot (48)](https://github.com/user-attachments/assets/5121dd77-66c7-4daa-93d6-c13b1df9f0d2)
+![Screenshot (49)](https://github.com/user-attachments/assets/89fecfb9-085b-4477-aa18-a011684f2498)
+![Screenshot (50)](https://github.com/user-attachments/assets/520727e9-ae45-45ed-940a-bae06ba968b8)
+![Screenshot (51)](https://github.com/user-attachments/assets/495362f1-d6e4-4814-b927-b9185b588a41)
+![Screenshot (52)](https://github.com/user-attachments/assets/ff6c3766-d216-4e34-bc77-ef365be49d16)
+![Screenshot (53)](https://github.com/user-attachments/assets/b61a3c97-a46f-4495-976f-04f90234d911)
+![Screenshot (54)](https://github.com/user-attachments/assets/dfce2a2e-9cdb-400b-932c-53fe466d3d92)
+![Screenshot (55)](https://github.com/user-attachments/assets/8514294d-5859-49df-a4b6-2f77e15faef2)
+![Screenshot (56)](https://github.com/user-attachments/assets/2d25e13a-df93-4030-aab3-2ff5a796dcc9)
+![Screenshot (57)](https://github.com/user-attachments/assets/4cf9eb61-75ec-4fbd-8576-fb4fc1aa8818)
+![Screenshot (59)](https://github.com/user-attachments/assets/0dc10d29-4936-4c32-9f7b-e96e424c31a8)
 
 
 
